@@ -48,8 +48,6 @@ OPENWEATHERMAP_API_KEY
 
 ## Future Improvements
 
-- Move API key to an environment variable
-- Add Celsius/Fahrenheit unit selection
 - Support international locations
 - Add multi-day forecast data
 - Convert the script into a web app
